@@ -100,5 +100,4 @@ public class WikipediaArticleSource {
     public ImageLoader getImageLoader() {
         return mImageLoader;
     }
-
 }

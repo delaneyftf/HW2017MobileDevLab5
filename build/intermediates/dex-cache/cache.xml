@@ -3,21 +3,66 @@
 
     <item
         is-multidex="true"
-        jar="/Users/dramalho/.android/build-cache/a2560baaa644f809a0d33a142a9650e514e415c8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fbd7fa8fe7bda72e44f0c5c94cc184d4f88571f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/dramalho/.android/build-cache/21bc6797cc7e9e78e5af72e1a33cc15b993bff81/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f45440ca0385827072f2528e4e66dd13c49d6b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_805d06ef600b8f6587f8f89b2fa0057ddbce06c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/Desktop/week2labs/HW2017MobileDevLab5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dramalho/Desktop/week2labs/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80ca5856638f5ed8322f058cc829af71418a14f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/.android/build-cache/74daf503e8cac2285d99222c83697de812c23658/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda2c5edd84c2244ca5ccb0ee2cb088ea94f123f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/.android/build-cache/0e1f6ac708364c7cd1c48817a3f42b920f1e0d14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e2ee25be8a12ecf93e7b5dbdbe8d44e7854293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe9a0102fe192cfa0444ffe655c8594a090048f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/.android/build-cache/a2560baaa644f809a0d33a142a9650e514e415c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fbd7fa8fe7bda72e44f0c5c94cc184d4f88571f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,15 +93,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dramalho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_805d06ef600b8f6587f8f89b2fa0057ddbce06c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/dramalho/.android/build-cache/8bfe69c867243f927b8b602d93e80c58fb87cec5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -84,30 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dramalho/.android/build-cache/74daf503e8cac2285d99222c83697de812c23658/output/jars/classes.jar"
+        jar="/Users/dramalho/Desktop/week2labs/HW2017MobileDevLab5/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda2c5edd84c2244ca5ccb0ee2cb088ea94f123f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dramalho/.android/build-cache/0e1f6ac708364c7cd1c48817a3f42b920f1e0d14/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e2ee25be8a12ecf93e7b5dbdbe8d44e7854293/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/dramalho/Desktop/Lab5/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe9a0102fe192cfa0444ffe655c8594a090048f0/classes.dex" />
+        sha1="2dcd7895708a8b6cfcb43cd5fad302236e9cd8cd">
+        <dex dex="/Users/dramalho/Desktop/week2labs/HW2017MobileDevLab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_207b0512f6bf78e6c091e4aa2aaa506a7292c7b0/classes.dex" />
     </item>
 
 </items>
